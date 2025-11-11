@@ -1,2 +1,2 @@
 # ToyScript
-A unfinished toy interpreter 
+An unfinished toy interpreter 
